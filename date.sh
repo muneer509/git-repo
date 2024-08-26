@@ -1,3 +1,3 @@
 #!/bin/bash
-date=$(command)
+date=$(date)
 echo "date is:$date"
