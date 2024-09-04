@@ -1,2 +1,3 @@
 #!/bin/bash
-date
+date=$(date) 
+echo " Today date is:$date"
